@@ -142,6 +142,9 @@
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="MidiFile.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MidiFile.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
