@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Midi2Music", "Midi2Music\Midi2Music.vcxproj", "{64B9BF98-3DB4-455F-B9C7-278F2A4C57F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64B9BF98-3DB4-455F-B9C7-278F2A4C57F9}.Debug|x64.ActiveCfg = Debug|x64
+		{64B9BF98-3DB4-455F-B9C7-278F2A4C57F9}.Debug|x64.Build.0 = Debug|x64
+		{64B9BF98-3DB4-455F-B9C7-278F2A4C57F9}.Debug|x86.ActiveCfg = Debug|Win32
+		{64B9BF98-3DB4-455F-B9C7-278F2A4C57F9}.Debug|x86.Build.0 = Debug|Win32
+		{64B9BF98-3DB4-455F-B9C7-278F2A4C57F9}.Release|x64.ActiveCfg = Release|x64
+		{64B9BF98-3DB4-455F-B9C7-278F2A4C57F9}.Release|x64.Build.0 = Release|x64
+		{64B9BF98-3DB4-455F-B9C7-278F2A4C57F9}.Release|x86.ActiveCfg = Release|Win32
+		{64B9BF98-3DB4-455F-B9C7-278F2A4C57F9}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {258DDD3D-DC01-409A-9EA4-9F0498DF96D1}
+	EndGlobalSection
+EndGlobal
